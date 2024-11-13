@@ -22,7 +22,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- [Live Solution](https://curi0usmind.github.io/qr-code-component/)
+- [GitHub Repo](https://github.com/curi0usmind/qr-code-component)
 
 ## My process
 
@@ -46,8 +47,8 @@ Since the image is used purely for styling, I've decided not to use figure and f
 
 ### Useful resources
 
-- [The Markdown Guide](https://www.markdownguide.org/) - This helped me improve my Markdown skills for writing in this file.
+- [The Markdown Guide](https://www.markdownguide.org/) - Helped me improve my Markdown skills for writing in this file.
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/curi0usmind)
+- Frontend Mentor - [@curi0usmind](https://www.frontendmentor.io/profile/curi0usmind)
