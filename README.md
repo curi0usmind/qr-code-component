@@ -47,7 +47,8 @@ Since the image is used purely for styling, I've decided not to use figure and f
 
 ### Useful resources
 
-- [The Markdown Guide](https://www.markdownguide.org/) - Helped me improve my Markdown skills for writing in this file.
+- [The Markdown Guide](https://www.markdownguide.org/)
+- Helped me improve my Markdown skills for writing in this file.
 
 ## Author
 
